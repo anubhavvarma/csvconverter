@@ -1,6 +1,9 @@
-#summary One-sentence summary of this page.
+#summary Introduction to CSV Converter
+#labels Featured
 
-== Release 0.1 ==
+== Features available in version 0.1 ==
+
+Huge files
 
 Kinds of mapping managed:
  * One to one,
@@ -20,5 +23,5 @@ Header management (could be removed).
 
 = Future features =
 
- * Statistics for real live data migration,
+ * Statistics for real live data migration indicators.
  * Parameterization of the CSV file separators.
