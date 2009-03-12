@@ -21,7 +21,7 @@ Header management (could be removed).
 
  * Aggregation of amounts.
 
-= Future features =
+== Future features ==
 
  * Statistics for real live data migration indicators.
  * Parameterization of the CSV file separators.
